@@ -1,0 +1,16 @@
+15
+NinhBinh QuangNinh 4
+LangSon ThaiNguyen 5
+ThaiNguyen HaiPhong 4
+ThaiNguyen CaoBang 5
+HaiPhong QuangNinh 7
+HaiPhong NinhBinh 2
+HaiPhong HaNoi 1
+QuangNinh HaGiang 3
+HaNoi LaoCai 4
+HaNoi ThanhHoa 1
+NinhBinh HaNoi 2
+LaoCai HaGiang 2
+ThaiNguyen HaNoi 10
+ThanhHoa NgheAn 3
+CaoBang NgheAn 8
